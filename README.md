@@ -13,7 +13,7 @@ A Next.js-powered analytics dashboard for tracking and visualizing X data. Free 
 ## 🧭 Tech Stack
 
 - **Next.js 15** (App Router) - React framework for server-side rendering and static sites
-- **React** - UI library
+- **shadcn** - UI library
 - **Tailwind CSS** - Utility-first CSS framework
 - **TypeScript** - Typed JavaScript
 
